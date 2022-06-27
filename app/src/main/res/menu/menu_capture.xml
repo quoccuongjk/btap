@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group >
+        <item android:title="photograph"
+            android:id="@+id/menu_photograph"
+             />
+        <item android:title="feature2"/>
+        <item android:title="feature3"/>
+    </group>
+
+</menu>
